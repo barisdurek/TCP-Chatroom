@@ -38,8 +38,7 @@ and then:
 ```
 python client.py
 ```
-
-* And these are what you should see in the console when the codes run:
+* And these are what you should see in the console when the programs run:
 ![Ekran görüntüsü 2025-04-22 163706](https://github.com/user-attachments/assets/3cdf68d9-77b4-40a1-b223-3f5ba6898b70)
 ![Ekran görüntüsü 2025-04-22 163740](https://github.com/user-attachments/assets/9283c8d1-5798-4345-abfb-2ca3b31601d9)
 ![Ekran görüntüsü 2025-04-22 163753](https://github.com/user-attachments/assets/566fece3-f872-4bd0-b811-14c69a7081da)
