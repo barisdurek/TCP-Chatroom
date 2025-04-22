@@ -22,21 +22,23 @@ Every 5 seconds, the server displays:
 ## Running the program
 ### Needed installations before using:
 #### pip install names
-* For random name generation, I used a library 'names'. 
-* In project, client enters a nickname. If it is taken, server assigns a random nickname to this client with the library 'names'.
+* For random name generation, used the library 'names'. 
+* In project, client enters a nickname. If it is taken, server assigns a random nickname to this client.
 
 #### pip install keyboard
-* I didn't want user to press enter for an input. Therefore with this library, if the server user want to close server, just need to press 'q' on keyboard.
+* I didn't prefer user to press enter for an input. Therefore with this library, if the server user want to close server, just need to press 'q' on keyboard.
 <br>
   
-* To run the program, just start the server and then start the clients. Code files don't get any additional arguments.
+* To run the program, just start the server and then start the clients. Program files don't get any additional arguments.
 First run the server:
 ```
-python server.py  
+python server.py
+py server.py
 ```
-and then:
+and then the client:
 ```
 python client.py
+py server.py
 ```
 * And these are what you should see in the console when the programs run:
 ![Ekran görüntüsü 2025-04-22 163706](https://github.com/user-attachments/assets/3cdf68d9-77b4-40a1-b223-3f5ba6898b70)
